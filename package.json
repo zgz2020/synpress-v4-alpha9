@@ -1,0 +1,18 @@
+{
+	"name": "synpress-v4-alpha9",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/zgz2020/synpress-v4-alpha9.git",
+	"author": "juan-langa <juan@oazoapps.com>",
+	"license": "MIT",
+	"type": "module",
+	"devDependencies": {
+		"@playwright/test": "^1.48.2",
+		"@synthetixio/synpress": "^4.0.0-alpha.9",
+		"@types/node": "^22.8.2",
+		"typescript": "^5.6.3"
+	},
+	"scripts": {
+		"run-tests": "npx playwright test"
+	}
+}
