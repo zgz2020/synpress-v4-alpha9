@@ -54,3 +54,5 @@ https://synpress.io/docs/guides/wallet-cache#building-the-cache
 
 19 - Run the test again: `yarn run-tests`
 Everything should work now.
+
+.
