@@ -5,7 +5,7 @@
 
 1 - Create a repository in github UI.
 
-2 - Clocne that repository in your local machine.
+2 - Clone that repository in your local machine.
 
 3 - Run `yarn` to create yarn.lock file.
 
